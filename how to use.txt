@@ -1,0 +1,1 @@
+copy the servoshield folder to libraries folder in arduino and start arduino
